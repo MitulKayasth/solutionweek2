@@ -16,10 +16,10 @@ create table stud_detail
 
 
 insert into stud
-values(1,"meet"),(2,"harsh"),(3,"bhavin"),(4,"hiten"),(5,"harry");
+values(1,"mitul"),(2,"jay"),(3,"om"),(4,"love"),(5,"kush");
 
 insert into stud_detail
-values(1,"surat",7227848152),(2,"surat",9909393113),(3,"kadodara",6353954397),(4,"bagumra",7265070790),(5,"bardoli",9987585940);
+values(1,"surat",7227848152),(2,"surat",9909393113),(3,"navsari",6353954397),(4,"orna",7265070790),(5,"bardoli",9987585940);
 
 1.Display all record of stud table.
 -> select * from stud;
